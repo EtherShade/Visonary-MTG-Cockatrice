@@ -200,7 +200,8 @@ Copy target artifact spell.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>When The Grand Engine enters, mill four cards.
-You may play artifact cards from your graveyard.</text>
+You may play artifact cards from your graveyard.
+You can’t play more than five cards from your graveyard each turn.</text>
     </card>
     <card>
       <name>RA01 Opal Shard</name>
@@ -333,7 +334,7 @@ Non-mana activated abilities of sources with the chosen name cost {2} more to ac
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>{T}, Sacrifice a creature: Return target creature card with mana value X or less from your graveyard to the battlefield, where X is 1 plus the mana value of the sacrificed creature.</text>
+      <text>{T}, Sacrifice a creature: Return target creature card with mana value X or less from your graveyard to the battlefield, where X is 1 plus the mana value of the sacrificed creature. Activate only as a sorcery.</text>
     </card>
     <card>
       <name>MG01 Comedic Altar</name>
@@ -351,7 +352,7 @@ Non-mana activated abilities of sources with the chosen name cost {2} more to ac
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>{T}, Sacrifice a creature: Look at the top seven cards of your library. You may put a creature card with mana value X or less from among those cards onto the battlefield, where X is 1 plus the mana value of the sacrificed creature. Put the rest on the bottom of your library in a random order.</text>
+      <text>{T}: Look at the top seven cards of your library. Then you may sacrifice a creature. If you do, you may put a creature card with mana value X or less from among those cards onto the battlefield, where X is 1 plus the sacrificed creature’s mana value. Put the rest on the bottom of your library in a random order.</text>
     </card>
     <card>
       <name>UU02 Engine Seeker</name>
@@ -370,7 +371,7 @@ Non-mana activated abilities of sources with the chosen name cost {2} more to ac
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Engine Seeker enters, reveal the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+      <text>When Engine Seeker enters, look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
     </card>
     <card>
       <name>UG01 Rebirther Ouroboros</name>
@@ -497,13 +498,12 @@ When Deepest Rotfiend enters, return each creature card from your graveyard to t
         <colors></colors>
         <type>Token Artifact - Clue </type>
         <maintype>Artifact</maintype>
-        <notes>!related UU01 Artificial Aristocracy;RU01 Devout Engineer</notes>
+        <notes>!related UU01 Artificial Aristocrat</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>{2}, Sacrifice this artifact: Draw a card.</text>
       <token>1</token>
-      <reverse-related>UU01 Artificial Aristocracy</reverse-related>
-      <reverse-related>RU01 Devout Engineer</reverse-related>
+      <reverse-related>UU01 Artificial Aristocrat</reverse-related>
     </card>
 
   </cards>
