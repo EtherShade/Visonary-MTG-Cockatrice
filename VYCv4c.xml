@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>VYC</name>
+      <longname>Visionary Core</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>RL01 Void Rift</name>
+      <set rarity="rare">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Void Rift: Add two mana of any one color.</text>
+    </card>
+    <card>
+      <name>UL01 Authorized Gateway</name>
+      <set rarity="uncommon">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Portal </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Authorized Gateway enters tapped.
+When Authorized Gateway enters, return a non-Portal land you control to its owner’s hand. Create a tapped token that’s a copy of the returned land.
+{T}: Add {W}.</text>
+    </card>
+    <card>
+      <name>UL02 Optimized Gateway</name>
+      <set rarity="uncommon">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Portal </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Optimized Gateway enters tapped.
+When Optimized Gateway enters, return a non-Portal land you control to its owner’s hand. Create a tapped token that’s a copy of the returned land.
+{T}: Add {U}.</text>
+    </card>
+    <card>
+      <name>UL03 Dominated Gateway</name>
+      <set rarity="uncommon">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Portal </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Dominated Gateway enters tapped.
+When Dominated Gateway enters, return a non-Portal land you control to its owner’s hand. Create a tapped token that’s a copy of the returned land.
+{T}: Add {B}.</text>
+    </card>
+    <card>
+      <name>UL04 Randomized Gateway</name>
+      <set rarity="uncommon">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Portal </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Randomized Gateway enters tapped.
+When Randomized Gateway enters, return a non-Portal land you control to its owner’s hand. Create a tapped token that’s a copy of the returned land.
+{T}: Add {R}.</text>
+    </card>
+    <card>
+      <name>UL05 Challenging Gateway</name>
+      <set rarity="uncommon">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Portal </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Challenging Gateway enters tapped.
+When Challenging Gateway enters, return a non-Portal land you control to its owner’s hand. Create a tapped token that’s a copy of the returned land.
+{T}: Add {G}.</text>
+    </card>
+    <card>
+      <name>UL06 Disastrous Cyclone</name>
+      <set rarity="uncommon">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Disastrous Cyclone enters, you may pay 2 life. If you don’t, it enters tapped.
+{T}, Sacrifice Disastrous Cyclone: Search your library for a Plains card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>UL07 Disastrous Tsunami</name>
+      <set rarity="uncommon">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Disastrous Tsunami enters, you may pay 2 life. If you don’t, it enters tapped.
+{T}, Sacrifice Disastrous Tsunami: Search your library for an Island card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>UL08 Disastrous Eruption</name>
+      <set rarity="uncommon">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Disastrous Eruption enters, you may pay 2 life. If you don’t, it enters tapped.
+{T}, Sacrifice Disastrous Eruption: Search your library for a Swamp card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>UL09 Disastrous Wildfire</name>
+      <set rarity="uncommon">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Disastrous Wildfire enters, you may pay 2 life. If you don’t, it enters tapped.
+{T}, Sacrifice Disastrous Wildfire: Search your library for a Mountain card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>UL10 Disastrous Earthquake</name>
+      <set rarity="uncommon">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Disastrous Earthquake enters, you may pay 2 life. If you don’t, it enters tapped.
+{T}, Sacrifice Disastrous Earthquake: Search your library for a Forest card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>CL11 Pinnacle of Frost</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Plains Island </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W} or {U}.)
+Pinnacle of Frost enters tapped.
+When Pinnacle of Frost enters, scry 2.</text>
+    </card>
+    <card>
+      <name>CL12 Pinnacle of Darkness</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Island Swamp </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U} or {B}.)
+Pinnacle of Darkness enters tapped.
+When Pinnacle of Darkness enters, scry 2.</text>
+    </card>
+    <card>
+      <name>CL13 Pinnacle of Blood</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Swamp Mountain </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B} or {R}.)
+Pinnacle of Blood enters tapped.
+When Pinnacle of Blood enters, scry 2.</text>
+    </card>
+    <card>
+      <name>CL14 Pinnacle of Fire</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Mountain Forest </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R} or {G}.)
+Pinnacle of Fire enters tapped.
+When Pinnacle of Fire enters, scry 2.</text>
+    </card>
+    <card>
+      <name>CL15 Pinnacle of Life</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Plains Forest </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G} or {W}.)
+Pinnacle of Life enters tapped.
+When Pinnacle of Life enters, scry 2.</text>
+    </card>
+    <card>
+      <name>CL16 Pinnacle of Bone</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Plains Swamp </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W} or {B}.)
+Pinnacle of Bone enters tapped.
+When Pinnacle of Bone enters, scry 2.</text>
+    </card>
+    <card>
+      <name>CL20 Pinnacle of Water</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Island Forest </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G} or {U}.)
+Pinnacle of Water enters tapped.
+When Pinnacle of Water enters, scry 2.</text>
+    </card>
+    <card>
+      <name>CL17 Pinnacle of Thunder</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Island Mountain </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U} or {R}.)
+Pinnacle of Thunder enters tapped.
+When Pinnacle of Thunder enters, scry 2.</text>
+    </card>
+    <card>
+      <name>CL18 Pinnacle of Death</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Swamp Forest </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B} or {G}.)
+Pinnacle of Death enters tapped.
+When Pinnacle of Death enters, scry 2.</text>
+    </card>
+    <card>
+      <name>CL19 Pinnacle of Light</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Plains Mountain </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R} or {W}.)
+Pinnacle of Light enters tapped.
+When Pinnacle of Light enters, scry 2.</text>
+    </card>
+    <card>
+      <name>CU01 Masked Seer</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Creature - Human Mystic </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Masked Seer enters, draw a card.</text>
+    </card>
+    <card>
+      <name>CU02 Sudden Abjuration</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>0</manacost>
+        <cost>0</cost>
+        <mana>0</mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a nontoken blue creature.
+Counter target spell.</text>
+    </card>
+    <card>
+      <name>CL01 Courtyard of Frost</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Plains Island </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W} or {U}.)
+Courtyard of Frost enters tapped unless you control two or more other lands.</text>
+    </card>
+    <card>
+      <name>CL02 Courtyard of Darkness</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Island Swamp </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U} or {B}.)
+Courtyard of Darkness enters tapped unless you control two or more other lands.</text>
+    </card>
+    <card>
+      <name>CL03 Courtyard of Blood</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Swamp Mountain </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B} or {R}.)
+Courtyard of Blood enters tapped unless you control two or more other lands.</text>
+    </card>
+    <card>
+      <name>CL04 Courtyard of Fire</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Mountain Forest </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R} or {G}.)
+Courtyard of Fire enters tapped unless you control two or more other lands.</text>
+    </card>
+    <card>
+      <name>CL05 Courtyard of Life</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Plains Forest </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G} or {W}.)
+Courtyard of Life enters tapped unless you control two or more other lands.</text>
+    </card>
+    <card>
+      <name>CL06 Courtyard of Bone</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Plains Swamp </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W} or {B}.)
+Courtyard of Bone enters tapped unless you control two or more other lands.</text>
+    </card>
+    <card>
+      <name>CL07 Courtyard of Thunder</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Island Mountain </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U} or {R}.)
+Courtyard of Thunder enters tapped unless you control two or more other lands.</text>
+    </card>
+    <card>
+      <name>CL08 Courtyard of Death</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Swamp Forest </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B} or {G}.)
+Courtyard of Death enters tapped unless you control two or more other lands.</text>
+    </card>
+    <card>
+      <name>CL09 Courtyard of Light</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Plains Mountain </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R} or {W}.)
+Courtyard of Light enters tapped unless you control two or more other lands.</text>
+    </card>
+    <card>
+      <name>CL10 Courtyard of Water</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Island Forest </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G} or {U}.)
+Courtyard of Water enters tapped unless you control two or more other lands.</text>
+    </card>
+    <card>
+      <name>CL21 City of Frost</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Plains Island </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W} or {U}.)
+Whenever City of Frost becomes tapped, it deals 1 damage to you.</text>
+    </card>
+    <card>
+      <name>CL22 City of Darkness</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Island Swamp </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U} or {B}.)
+Whenever City of Darkness becomes tapped, it deals 1 damage to you.</text>
+    </card>
+    <card>
+      <name>CL23 City of Blood</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Swamp Mountain </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B} or {R}.)
+Whenever City of Blood becomes tapped, it deals 1 damage to you.</text>
+    </card>
+    <card>
+      <name>CL24 City of Fire</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Mountain Forest </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R} or {G}.)
+Whenever City of Fire becomes tapped, it deals 1 damage to you.</text>
+    </card>
+    <card>
+      <name>CL25 City of Life</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Plains Forest </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G} or {W}.)
+Whenever City of Life becomes tapped, it deals 1 damage to you.</text>
+    </card>
+    <card>
+      <name>CL26 City of Bone</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Plains Swamp </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W} or {B}.)
+Whenever City of Bone becomes tapped, it deals 1 damage to you.</text>
+    </card>
+    <card>
+      <name>CL27 City of Thunder</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Island Mountain </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U} or {R}.)
+Whenever City of Thunder becomes tapped, it deals 1 damage to you.</text>
+    </card>
+    <card>
+      <name>CL28 City of Death</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Swamp Forest </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B} or {G}.)
+Whenever City of Death becomes tapped, it deals 1 damage to you.</text>
+    </card>
+    <card>
+      <name>CL29 City of Light</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Plains Mountain </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R} or {W}.)
+Whenever City of Light becomes tapped, it deals 1 damage to you.</text>
+    </card>
+    <card>
+      <name>CL30 City of Water</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Island Forest </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G} or {U}.)
+Whenever City of Water becomes tapped, it deals 1 damage to you.</text>
+    </card>
+    <card>
+      <name>RL02 Equalization Center</name>
+      <set rarity="rare">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes>landslot</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Equalization Center enters tapped.
+When Equalization Center enters, untap another target land.
+{T}: Add {C}.</text>
+    </card>
+    <card>
+      <name>Wastes</name>
+      <set rarity="">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.</text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W}.)</text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U}.)</text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B}.)</text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R}.)</text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G}.)</text>
+    </card>
+    <card>
+      <name>CL31 Pit of Frost</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Plains Island </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W} or {U}.)
+Pit of Frost enters tapped.
+{T}, Sacrifice a creature: Add WU.</text>
+    </card>
+    <card>
+      <name>CU03 Counteract</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>UU</manacost>
+        <cost>UU</cost>
+        <mana>UU</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell.
+Mill two cards.</text>
+    </card>
+    <card>
+      <name>CR01 Controlled Shock</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Controlled Shock deals 2 damage to any target. If that target is a creature, scry 1.</text>
+    </card>
+    <card>
+      <name>CR02 Untold Riches</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a Treasure token.
+Flashback 2R (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>CL32 Pit of Darkness</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Island Swamp </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U} or {B}.)
+Pit of Darkness enters tapped.
+{T}, Sacrifice a creature: Add UB.</text>
+    </card>
+    <card>
+      <name>CL33 Pit of Blood</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Swamp Mountain </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B} or {R}.)
+Pit of Blood enters tapped.
+{T}, Sacrifice a creature: Add BR.</text>
+    </card>
+    <card>
+      <name>CL34 Pit of Fire</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Mountain Forest </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R} or {G}.)
+Pit of Fire enters tapped.
+{T}, Sacrifice a creature: Add RG.</text>
+    </card>
+    <card>
+      <name>CL35 Pit of Life</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Plains Forest </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G} or {W}.)
+Pit of Life enters tapped.
+{T}, Sacrifice a creature: Add GW.</text>
+    </card>
+    <card>
+      <name>CL36 Pit of Bone</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Plains Swamp </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W} or {B}.)
+Pit of Bone enters tapped.
+{T}, Sacrifice a creature: Add WB.</text>
+    </card>
+    <card>
+      <name>CL37 Pit of Thunder</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Island Mountain </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U} or {R}.)
+Pit of Thunder enters tapped.
+{T}, Sacrifice a creature: Add UR.</text>
+    </card>
+    <card>
+      <name>CL38 Pit of Death</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Swamp Forest </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B} or {G}.)
+Pit of Death enters tapped.
+{T}, Sacrifice a creature: Add BG.</text>
+    </card>
+    <card>
+      <name>CL39 Pit of Light</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Plains Mountain </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R} or {W}.)
+Pit of Light enters tapped.
+{T}, Sacrifice a creature: Add RW.</text>
+    </card>
+    <card>
+      <name>CL40 Pit of Water</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Island Forest </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G} or {U}.)
+Pit of Water enters tapped.
+{T}, Sacrifice a creature: Add GU.</text>
+    </card>
+    <card>
+      <name>UU01 Blown Away</name>
+      <set rarity="uncommon">VYC</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>3U</manacost>
+        <cost>3U</cost>
+        <mana>3U</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return all creatures to their owners’ hands.</text>
+    </card>
+    <card>
+      <name>CB01 Calculated Coercion</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card. If they didn’t discard a card this way, they lose 3 life.</text>
+    </card>
+    <card>
+      <name>CG01 Naturalization Sage</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Naturalization Sage enters, destroy up to one target artifact and up to one target enchantment.</text>
+    </card>
+    <card>
+      <name>UM01 Devolution Sage</name>
+      <set rarity="uncommon">VYC</set>
+      <prop>
+        <colors>UG</colors>
+        <color>UG</color>
+        <manacost>GU</manacost>
+        <cost>GU</cost>
+        <mana>GU</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Devolution Sage enters, choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Return target creature to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>CB02 Merciless Slaughter</name>
+      <set rarity="common">VYC</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Overload 3B (You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)
+Merciless Slaughter deals 2 damage to target creature. You gain life equal to the damage dealt this way.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Treasure [Token] VYC</name>
+      <set>VYC</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+        <notes>!related CR02 Untold Riches</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>CR02 Untold Riches</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
