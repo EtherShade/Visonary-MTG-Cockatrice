@@ -34,11 +34,11 @@ You may cast spells as though they had flash.</text>
       <prop>
         <colors>U</colors>
         <color>U</color>
-        <manacost>1U</manacost>
-        <cost>1U</cost>
-        <mana>1U</mana>
-        <cmc>2</cmc>
-        <mv>2</mv>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
         <type>Artifact Creature - Human Noble </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
@@ -46,7 +46,7 @@ You may cast spells as though they had flash.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Whenever Artificial Aristocrat attacks, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)</text>
+When Artificial Aristocrat enters, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)</text>
     </card>
     <card>
       <name>RR01 Wish Upon the Engine</name>
@@ -266,18 +266,18 @@ Non-mana activated abilities of sources with the chosen name cost {2} more to ac
       <prop>
         <colors></colors>
         <color></color>
-        <manacost>2</manacost>
-        <cost>2</cost>
-        <mana>2</mana>
-        <cmc>2</cmc>
-        <mv>2</mv>
+        <manacost>1</manacost>
+        <cost>1</cost>
+        <mana>1</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Sanity Vessel enters, draw a card.
-{T}: Shuffle target card from a graveyard into its owner’s library.</text>
+      <text>Kicker—1 or discard a card. (You may 1 or discard a card in addition to any other costs as you cast this spell.)
+{T}: Shuffle up to two target cards from graveyards into their owners’ library.</text>
     </card>
     <card>
       <name>RL01 Opal Sanctuary</name>
@@ -334,7 +334,7 @@ Non-mana activated abilities of sources with the chosen name cost {2} more to ac
       </prop>
       <tablerow>2</tablerow>
       <text>When Shieldback Swarm enters, if its not a token, create a token that’s a copy of it.
-Whenever an opponent attacks, target attacking creature gets -4/-0 until end of turn.</text>
+Whenever an opponent attacks, target attacking creature gets -2/-0 until end of turn.</text>
     </card>
     <card>
       <name>UG01 Rebirther Ouroboros</name>
@@ -373,25 +373,6 @@ Whenever an opponent attacks, target attacking creature gets -4/-0 until end of 
       </prop>
       <tablerow>2</tablerow>
       <text>When Rotclaw Nightmare enters or dies, destroy target nonland permanent.</text>
-    </card>
-    <card>
-      <name>UB01 Rogue Reclaimer</name>
-      <set rarity="uncommon">VP1</set>
-      <prop>
-        <colors>B</colors>
-        <color>B</color>
-        <manacost>2B</manacost>
-        <cost>2B</cost>
-        <mana>2B</mana>
-        <cmc>3</cmc>
-        <mv>3</mv>
-        <type>Creature - Human Rogue </type>
-        <maintype>Creature</maintype>
-        <pt>2/1</pt>
-        <notes></notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>When Rogue Reclaimer enters, destroy up to one target creature with power 3 or less.</text>
     </card>
     <card>
       <name>RG01 Rotmask Behemoth</name>
@@ -477,14 +458,14 @@ When Relic Scanner enters, search your library for an artifact card with mana co
       <prop>
         <colors>R</colors>
         <color>R</color>
-        <manacost>1R</manacost>
-        <cost>1R</cost>
-        <mana>1R</mana>
-        <cmc>2</cmc>
-        <mv>2</mv>
+        <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Human Artificer </type>
         <maintype>Creature</maintype>
-        <pt>1/1</pt>
+        <pt>2/2</pt>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
@@ -509,6 +490,83 @@ Whenever you sacrifice an artifact, put a +1/+1 counter on Scrapyard Savant. Add
       <tablerow>1</tablerow>
       <text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
 Whenever an artifact you control enters or leaves the battlefield, put a +1/+1 counter on up to one target creature.</text>
+    </card>
+    <card>
+      <name>UU04 Vision Monitor</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Vision Monitor enters, draw two cards. Then discard two cards unless you discard an artifact card.</text>
+    </card>
+    <card>
+      <name>UB01 Mind Bug</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Insect Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mind Bug enters, each opponent discards a card.</text>
+    </card>
+    <card>
+      <name>UA04 Duplispear</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>1</manacost>
+        <cost>1</cost>
+        <mana>1</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature attacks, you may sacrifice an artifact. If you do, create a token that’s a copy of equipped creature.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>UG02 Wilderwarper</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>4G</manacost>
+        <cost>4G</cost>
+        <mana>4G</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, you gain life equal to Wilderwarper’s power.
+Warp {G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
     </card>
 
     <!-->Tokens</-->
