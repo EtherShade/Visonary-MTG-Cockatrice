@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>VP1</name>
+      <longname>Visionary Precons 1</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>RU01 Engine Orrery</name>
+      <set rarity="rare">VP1</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>4U</manacost>
+        <cost>4U</cost>
+        <mana>4U</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+You may cast spells as though they had flash.</text>
+    </card>
+    <card>
+      <name>UU01 Artificial Aristocrat</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Artificial Aristocrat enters, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)</text>
+    </card>
+    <card>
+      <name>RR01 Wish Upon the Engine</name>
+      <set rarity="rare">VP1</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may play an artifact card from your sideboard this turn.</text>
+    </card>
+    <card>
+      <name>UR01 Molded Spellcraft</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>4R</manacost>
+        <cost>4R</cost>
+        <mana>4R</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Copy target artifact spell.</text>
+    </card>
+    <card>
+      <name>RM01 Vaxos, Guardian of the Engine</name>
+      <set rarity="rare">VP1</set>
+      <prop>
+        <colors>UR</colors>
+        <color>UR</color>
+        <manacost>1UR</manacost>
+        <cost>1UR</cost>
+        <mana>1UR</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Legendary Artifact Creature - Construct Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast your second or fourth spell each turn, you may sacrifice an artifact. If you do, copy that spell. You may choose new choices and targets for the copy.</text>
+    </card>
+    <card>
+      <name>RM02 Steam Visions</name>
+      <set rarity="rare">VP1</set>
+      <prop>
+        <colors>UR</colors>
+        <color>UR</color>
+        <manacost>3UR</manacost>
+        <cost>3UR</cost>
+        <mana>3UR</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose up to X, where X is the number of artifacts you control. You may choose the same modes more than once —
+• Target player draws a card.
+• Destroy target artifact.
+• Steam Visions deals 2 damage to any target.
+• Return target nonland permanent to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>CA01 Broken Automite</name>
+      <set rarity="common">VP1</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>0</manacost>
+        <cost>0</cost>
+        <mana>0</mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Creature - Construct Mite </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Unearth {0} ({0}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>CA02 Engine Lever</name>
+      <set rarity="common">VP1</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>1</manacost>
+        <cost>1</cost>
+        <mana>1</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Engine Lever enters, draw a card.
+{1}, {T}: Surveil 1.</text>
+    </card>
+    <card>
+      <name>MA01 The Grand Engine</name>
+      <set rarity="mythic">VP1</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>4</manacost>
+        <cost>4</cost>
+        <mana>4</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When The Grand Engine enters, mill four cards.
+Artifact cards in your graveyard have escape. The escape cost is equal to the card’s mana cost plus exile three other cards from your graveyard. (You may cast cards from your graveyard for their escape cost.)</text>
+    </card>
+    <card>
+      <name>RA01 Opal Shard</name>
+      <set rarity="rare">VP1</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>1</manacost>
+        <cost>1</cost>
+        <mana>1</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}. Activate only if you control two or more artifacts.
+{T}: Add one mana of any color. Activate only if you control four or more artifacts.</text>
+    </card>
+    <card>
+      <name>RA02 Maniac&apos;s Guidebook</name>
+      <set rarity="rare">VP1</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>3</manacost>
+        <cost>3</cost>
+        <mana>3</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you would draw a card while your library has no cards in it, you win the game instead.</text>
+    </card>
+    <card>
+      <name>RA03 Disruption Bell</name>
+      <set rarity="rare">VP1</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>1</manacost>
+        <cost>1</cost>
+        <mana>1</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+As Disruption Bell enters the battlefield, choose a card name.
+Spells with the chosen name cost {2} more to cast.
+Non-mana activated abilities of sources with the chosen name cost {2} more to activate.</text>
+    </card>
+    <card>
+      <name>UA01 Magnificent Furnace</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>5</manacost>
+        <cost>5</cost>
+        <mana>5</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+{T}, Sacrifice an artifact: Draw a card.</text>
+    </card>
+    <card>
+      <name>UA03 Sanity Vessel</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>1</manacost>
+        <cost>1</cost>
+        <mana>1</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Kicker—Pay {1} or discard a card. (You may pay 1 or discard a card in addition to any other costs as you cast this spell.)
+{T}: Shuffle up to two target cards from graveyards into their owners’ library.</text>
+    </card>
+    <card>
+      <name>RL01 Opal Sanctuary</name>
+      <set rarity="rare">VP1</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}: Add one mana of any color. Activate only if you control three or more artifacts.</text>
+    </card>
+    <card>
+      <name>MM01 Altar of Evolution</name>
+      <set rarity="mythic">VP1</set>
+      <prop>
+        <colors>UBG</colors>
+        <color>UBG</color>
+        <manacost>2BGU</manacost>
+        <cost>2BGU</cost>
+        <mana>2BGU</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice a creature: Search your library for a creature card with mana value equal to 1 plus the sacrificed creature’s mana value, put that card onto the battlefield, then shuffle. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>UU03 Shieldback Swarm</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Turtle </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Shieldback Swarm enters, if its not a token, create a token that’s a copy of it.
+Whenever an opponent attacks, target attacking creature gets -2/-0 until end of turn.</text>
+    </card>
+    <card>
+      <name>UG01 Rebirther Ouroboros</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>3G</manacost>
+        <cost>3G</cost>
+        <mana>3G</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Rebirther Ouroboros dies, if its power is less than 8, create a token that’s a copy of it, except its power and toughness are doubled.</text>
+    </card>
+    <card>
+      <name>RM03 Rotclaw Nightmare</name>
+      <set rarity="rare">VP1</set>
+      <prop>
+        <colors>BG</colors>
+        <color>BG</color>
+        <manacost>3BG</manacost>
+        <cost>3BG</cost>
+        <mana>3BG</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Rotclaw Nightmare enters or dies, destroy target nonland permanent.</text>
+    </card>
+    <card>
+      <name>RG01 Rotmask Behemoth</name>
+      <set rarity="rare">VP1</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>4GG</manacost>
+        <cost>4GG</cost>
+        <mana>4GG</mana>
+        <cmc>6</cmc>
+        <mv>6</mv>
+        <type>Creature - Beast Horror </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Rotmask Behemoth dies, you may sacrifice a creature. If you do, return Rotmask Behemoth from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>RU02 Rotten Riddler</name>
+      <set rarity="rare">VP1</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>4UUU</manacost>
+        <cost>4UUU</cost>
+        <mana>4UUU</mana>
+        <cmc>7</cmc>
+        <mv>7</mv>
+        <type>Creature - Sphinx </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may pay {U} instead of paying this spell’s mana cost. If you do, it enters with a 1/1 counter.
+When Rotten Riddler dies, draw cards equal to its power.</text>
+    </card>
+    <card>
+      <name>RB01 Rot Festival</name>
+      <set rarity="rare">VP1</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
+Exhaust — 4BBB: Return each creature card from your graveyard to the battlefield. (Activate each exhaust ability only once.)</text>
+    </card>
+    <card>
+      <name>UU02 Relic Scanner</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact Creature - Thopter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Relic Scanner enters, search your library for an artifact card with mana cost {0} or {1}, put it onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>UR02 Scrapyard Savant</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Scrapyard Savant enters, create a Treasure token.
+Whenever you sacrifice an artifact, put a +1/+1 counter on Scrapyard Savant. Add {R}.</text>
+    </card>
+    <card>
+      <name>UA02 Forge of Dreams</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>6</manacost>
+        <cost>6</cost>
+        <mana>6</mana>
+        <cmc>6</cmc>
+        <mv>6</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Whenever an artifact you control enters or leaves the battlefield, put a +1/+1 counter on up to one target creature.</text>
+    </card>
+    <card>
+      <name>UU04 Vision Monitor</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Vision Monitor enters, draw two cards. Then discard two cards unless you discard an artifact card.</text>
+    </card>
+    <card>
+      <name>UB01 Mind Bug</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Insect Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mind Bug enters, each opponent discards a card.</text>
+    </card>
+    <card>
+      <name>UA04 Duplispear</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>1</manacost>
+        <cost>1</cost>
+        <mana>1</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature attacks, you may sacrifice an artifact. If you do, create a token that’s a copy of equipped creature.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>UG02 Wilderwarper</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>4G</manacost>
+        <cost>4G</cost>
+        <mana>4G</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, you gain life equal to Wilderwarper’s power.
+Warp {G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+    </card>
+    <card>
+      <name>ML01 Sanctum of Lost Memories</name>
+      <set rarity="mythic">VP1</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Sanctum of Lost Memories enters tapped.
+{T}: Add {C}. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+You may play Sanctum of Lost Memories from your graveyard by exiling two other cards from your graveyard.</text>
+    </card>
+    <card>
+      <name>UB03 Memory Parasite</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Creature - Slug </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Amnesia {0} (You may cast this card from your graveyard for its amnesia cost if it was put there from your library this turn.)
+When Memory Parasite enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>UB02 Shadowphase Slayer</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Creature - Nightmare Ninja </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ninjutsu—Discard a card. (Discard a card, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Lifelink</text>
+    </card>
+    <card>
+      <name>UG03 History Parasite</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Creature - Slug </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Amnesia {0} (You may cast this card from your graveyard for its amnesia cost if it was put there from your library this turn. Timing rules still apply.)
+When History Parasite enters, add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>RC01 Underworld Minimalism</name>
+      <set rarity="rare">VP1</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>CCC</manacost>
+        <cost>CCC</cost>
+        <mana>CCC</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each main phase, as long as Underworld Minimalism is in your graveyard and you control two or fewer lands, add {C}.</text>
+    </card>
+    <card>
+      <name>UC01 Voidfire Tendrils</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>3</manacost>
+        <cost>3</cost>
+        <mana>3</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile all cards in target graveyard. Scry 1.
+Flashback {1} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>UR03 Predator of Bloodied Fang</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast this spell, you may sacrifice any number of creatures. This spell costs 1R (or {2}) less to cast for each creature sacrificed this way.
+Menace</text>
+    </card>
+    <card>
+      <name>UR04 Scrawny Scavenger</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Creature - Jackal </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast this spell, you may exile of creature cards from your graveyard. This spell costs {R} (or {1}) less to cast for each card exiled this way.
+Haste</text>
+    </card>
+    <card>
+      <name>RM04 Parasite Farmer</name>
+      <set rarity="rare">VP1</set>
+      <prop>
+        <colors>BG</colors>
+        <color>BG</color>
+        <manacost>BG</manacost>
+        <cost>BG</cost>
+        <mana>BG</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Human Peasant Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature’s color.)
+When Parasite Farmer enters, mill a card. Then if you didn’t mill a card with amnesia, repeat this process.</text>
+    </card>
+    <card>
+      <name>UG04 Vinewinder Parasite</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Slug Plant </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Amnesia—Reveal a green card from your hand. (You may cast this card from your graveyard for its amnesia cost if it was put there from your library this turn. Timing rules still apply.)
+Reveal a green card from your hand: Vinewinder Parasite gets +1/+0 until end of turn. Activate only once each turn.</text>
+    </card>
+    <card>
+      <name>UB04 Mindwinder Parasite</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Slug Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Amnesia—Reveal a black card from your hand. (You may cast this card from your graveyard for its amnesia cost if it was put there from your library this turn. Timing rules still apply.)
+Reveal a black card from your hand: Mindwinder Parasite gets +0/+1 until end of turn. Activate only once each turn.</text>
+    </card>
+    <card>
+      <name>UC02 Void Wormhole</name>
+      <set rarity="rare">VP1</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>7</manacost>
+        <cost>7</cost>
+        <mana>7</mana>
+        <cmc>7</cmc>
+        <mv>7</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Exile target creature.</text>
+    </card>
+    <card>
+      <name>RG02 Gravebound Cleansing</name>
+      <set rarity="rare">VP1</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Plot—Exile seven cards from your graveyard. (You may exile seven cards from your graveyard in addition to any other costs and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)
+Destroy target artifact or enchantment.</text>
+    </card>
+    <card>
+      <name>RB02 Unthinkable Memories</name>
+      <set rarity="rare">VP1</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Amnesia—{1}, Exile a black card from your hand. (You may cast this card from your graveyard for its amnesia cost if it was put there from your library this turn. Timing rules still apply.)
+Mill nine cards.</text>
+    </card>
+    <card>
+      <name>UC03 Mildly Unthinkable</name>
+      <set rarity="rare">VP1</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>0</manacost>
+        <cost>0</cost>
+        <mana>0</mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill three cards.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Clue [Token] VP1</name>
+      <set>VP1</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Clue </type>
+        <maintype>Artifact</maintype>
+        <notes>!related UU01 Artificial Aristocrat</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Sacrifice this artifact: Draw a card.</text>
+      <token>1</token>
+      <reverse-related>UU01 Artificial Aristocrat</reverse-related>
+    </card>
+    <card>
+      <name>Treasure [Token] VP1</name>
+      <set>VP1</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+        <notes>!related UR02 Scrapyard Savant</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>UR02 Scrapyard Savant</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
