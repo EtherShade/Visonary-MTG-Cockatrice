@@ -277,6 +277,7 @@ Non-mana activated abilities of sources with the chosen name cost {2} more to ac
       </prop>
       <tablerow>1</tablerow>
       <text>Kicker—Pay {1} or discard a card. (You may pay 1 or discard a card in addition to any other costs as you cast this spell.)
+When Sanity Vessel enters, if it was kicked, draw a card.
 {T}: Shuffle up to two target cards from graveyards into their owners’ library.</text>
     </card>
     <card>
@@ -458,11 +459,11 @@ When Relic Scanner enters, search your library for an artifact card with mana co
       <prop>
         <colors>R</colors>
         <color>R</color>
-        <manacost>2R</manacost>
-        <cost>2R</cost>
-        <mana>2R</mana>
-        <cmc>3</cmc>
-        <mv>3</mv>
+        <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Human Artificer </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
@@ -665,7 +666,7 @@ When History Parasite enters, add {B} or {G}.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>At the beginning of each main phase, as long as Underworld Minimalism is in your graveyard and you control two or fewer lands, add {C}.</text>
+      <text>At the beginning of your precombat main phase, as long as Underworld Minimalism is in your graveyard and you control two or fewer lands, add {C}.</text>
     </card>
     <card>
       <name>UC01 Voidfire Tendrils</name>
@@ -725,26 +726,6 @@ Menace</text>
       <tablerow>2</tablerow>
       <text>As an additional cost to cast this spell, you may exile of creature cards from your graveyard. This spell costs {R} (or {1}) less to cast for each card exiled this way.
 Haste</text>
-    </card>
-    <card>
-      <name>RM04 Parasite Farmer</name>
-      <set rarity="rare">VP1</set>
-      <prop>
-        <colors>BG</colors>
-        <color>BG</color>
-        <manacost>BG</manacost>
-        <cost>BG</cost>
-        <mana>BG</mana>
-        <cmc>2</cmc>
-        <mv>2</mv>
-        <type>Creature - Human Peasant Warlock </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-        <notes></notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature’s color.)
-When Parasite Farmer enters, mill a card. Then if you didn’t mill a card with amnesia, repeat this process.</text>
     </card>
     <card>
       <name>UG04 Vinewinder Parasite</name>
@@ -830,18 +811,18 @@ Destroy target artifact or enchantment.</text>
       <prop>
         <colors>B</colors>
         <color>B</color>
-        <manacost>1B</manacost>
-        <cost>1B</cost>
-        <mana>1B</mana>
-        <cmc>2</cmc>
-        <mv>2</mv>
+        <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Amnesia—{1}, Exile a black card from your hand. (You may cast this card from your graveyard for its amnesia cost if it was put there from your library this turn. Timing rules still apply.)
-Mill nine cards.</text>
+Mill five cards.</text>
     </card>
     <card>
       <name>UC03 Mildly Unthinkable</name>
@@ -860,6 +841,43 @@ Mill nine cards.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Mill three cards.</text>
+    </card>
+    <card>
+      <name>UG05 Brainless Study</name>
+      <set rarity="uncommon">VP1</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill three cards, then you may put a card from your graveyard on top of your deck.</text>
+    </card>
+    <card>
+      <name>RZ01 Terror of Forgetting</name>
+      <set rarity="rare">VP1</set>
+      <prop>
+        <colors>BG</colors>
+        <color>BG</color>
+        <manacost>B/G</manacost>
+        <cost>B/G</cost>
+        <mana>B/G</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Discard a card: Mill three cards.</text>
     </card>
 
     <!-->Tokens</-->
